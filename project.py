@@ -18,3 +18,13 @@ discord-like-app/
 │
 ├── requirements.txt
 └── README.md
+
+
+  # git clone https://github.com/yourusername/discord-like-app.git
+cd discord-like-app
+
+  # pip install -r requirements.txt
+
+  # python -m server.server
+
+  # python -m client.client
